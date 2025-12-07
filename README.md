@@ -1,4 +1,4 @@
-# Flibusta Telegram Bot
+# Library Telegram Bot
 
 Telegram бот для поиска и скачивания книг с Флибусты.
 
@@ -68,7 +68,7 @@ Telegram бот для поиска и скачивания книг с Флиб
 ```
 telegram bot/
 ├── bot.py              # Основной файл бота (Telegram handlers)
-├── flibusta_client.py  # Клиент для работы с Flibusta (OPDS + HTTP)
+├── flibusta_client.py  # Клиент для работы (OPDS + HTTP)
 ├── config.py           # Конфигурация
 ├── requirements.txt    # Зависимости
 ├── .env               # Токен бота (не в git)
